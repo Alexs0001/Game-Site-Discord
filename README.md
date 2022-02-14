@@ -10,4 +10,5 @@
 
 **It's very simple:** 
 
-You know how to do otherwise you're stupid
+- Just put your discord url in the index.html and about-game.html
+- Add your .exe in the game file and change the link in the index.html and about-game.html
