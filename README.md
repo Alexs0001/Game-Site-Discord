@@ -3,6 +3,6 @@
   Akatori Game
   <br>
   <br>
-  <a href=""><img src="https://media.discordapp.net/attachments/942796215374999572/942805262664880168/unknown.png?width=1374&height=683" alt="Red - Discord Bot"></a>
+  <img src="https://cdn.discordapp.com/attachments/936742811116667000/942813196526432276/unknown.png" alt="WebSite">
 </h1>
 
